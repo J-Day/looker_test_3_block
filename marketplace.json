@@ -1,5 +1,5 @@
 {
-  "label": "Google Analytics 360",
+  "label": "Google Analytics 360 - Verti",
   "category_label": "Models",
   "branding": {
     "badge": "Beta",
@@ -30,7 +30,7 @@
   },
   "models": [
     {
-      "name": "google_analytics_360_v2",
+      "name": "google_analytics_360_v2_verti",
       "connection_constant": "CONNECTION_NAME"
     }
   ]
